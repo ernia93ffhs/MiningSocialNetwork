@@ -121,3 +121,4 @@ websockets==7.0
 widgetsnbextension==3.4.2
 yahoo-fin==0.8.2
 zipp==0.5.1
+pygithub=1.53
